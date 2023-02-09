@@ -1,8 +1,8 @@
 class Getwindowid < Formula
   desc "Retrieves the CGWindowID of the specified window"
-  homepage "https://github.com/smokris/GetWindowID"
-  url "https://github.com/smokris/GetWindowID/archive/1.1.tar.gz"
-  sha256 "fa6f1c28c675041021c8fe7944446e6d98f764140ac3a62a2707a220bd116c04"
+  homepage "https://github.com/gsbabil/GetWindowID"
+  url "https://github.com/gsbabil/GetWindowID/archive/1.1.1.tar.gz"
+  sha256 "802401935fec24231143b4bbcf1ccafe36a1f9eec8e0eb900afe52144f009032"
 
   def install
     system "make"
